@@ -1,2 +1,2 @@
 # HEALTH-CARE
- An impressive and user-friendly healthcare website landing page created from scratch using HTML and CSS
+Create an impressive and user-friendly Health Care Website Landing Page from scratch using HTML and CSS.
